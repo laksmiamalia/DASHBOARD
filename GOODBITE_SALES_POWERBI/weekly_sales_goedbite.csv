@@ -1,0 +1,141 @@
+Transaction_ID,Date,Product,Flavor,Topping,Quantity,Unit_Price,Total_Sales,Shopping_Method
+1,2/28/2024,Mini Martabak,Original,No Topping,20,2.5,50,In-Store
+2,2/28/2024,Mini Martabak,Original,Chocolate Sprinkle,15,3,45,Online
+3,2/28/2024,Mini Martabak,Original,Rainbow Sprinkle,10,3.5,35,In-Store
+4,2/28/2024,Mini Martabak,Original,Raisin,12,4,48,In-Store
+5,2/28/2024,Mini Martabak,Original,Banana,18,3.5,63,Online
+6,2/28/2024,Mini Martabak,Original,Oreo Crumbs,25,3,75,In-Store
+7,2/28/2024,Mini Martabak,Original,Dates,30,2.5,75,Online
+8,2/28/2024,Mini Martabak,Original,Peanuts,8,3.5,28,In-Store
+9,2/28/2024,Mini Martabak,Original,Strawberry Jam,10,3,30,In-Store
+10,2/28/2024,Mini Martabak,Original,Cheese,22,4,88,Online
+11,2/28/2024,Mini Martabak,Chocolate,No Topping,25,3,75,In-Store
+12,2/28/2024,Mini Martabak,Chocolate,Chocolate Sprinkle,18,3.5,63,In-Store
+13,2/28/2024,Mini Martabak,Chocolate,Rainbow Sprinkle,13,4,52,Online
+14,2/28/2024,Mini Martabak,Chocolate,Raisin,15,4.5,67.5,In-Store
+15,2/28/2024,Mini Martabak,Chocolate,Banana,20,4,80,Online
+16,2/28/2024,Mini Martabak,Chocolate,Oreo Crumbs,28,3.5,98,In-Store
+17,2/28/2024,Mini Martabak,Chocolate,Dates,35,3,105,In-Store
+18,2/28/2024,Mini Martabak,Chocolate,Peanuts,10,4,40,Online
+19,2/28/2024,Mini Martabak,Chocolate,Strawberry Jam,12,3.5,42,In-Store
+20,2/28/2024,Mini Martabak,Chocolate,Cheese,30,5,150,Online
+21,2/29/2024,Mini Martabak,Original,No Topping,15,2.5,37.5,Online
+22,2/29/2024,Mini Martabak,Original,Chocolate Sprinkle,20,3,60,In-Store
+23,2/29/2024,Mini Martabak,Original,Rainbow Sprinkle,8,3.5,28,Online
+24,2/29/2024,Mini Martabak,Original,Raisin,10,4,40,In-Store
+25,2/29/2024,Mini Martabak,Original,Banana,25,3.5,87.5,Online
+26,2/29/2024,Mini Martabak,Original,Oreo Crumbs,30,3,90,In-Store
+27,2/29/2024,Mini Martabak,Original,Dates,18,2.5,45,In-Store
+28,2/29/2024,Mini Martabak,Original,Peanuts,12,3.5,42,Online
+29,2/29/2024,Mini Martabak,Original,Strawberry Jam,15,3,45,In-Store
+30,2/29/2024,Mini Martabak,Original,Cheese,20,4,80,Online
+31,2/29/2024,Mini Martabak,Chocolate,No Topping,18,3,54,In-Store
+32,2/29/2024,Mini Martabak,Chocolate,Chocolate Sprinkle,22,3.5,77,Online
+33,2/29/2024,Mini Martabak,Chocolate,Rainbow Sprinkle,15,4,60,In-Store
+34,2/29/2024,Mini Martabak,Chocolate,Raisin,20,4.5,90,Online
+35,2/29/2024,Mini Martabak,Chocolate,Banana,30,4,120,In-Store
+36,2/29/2024,Mini Martabak,Chocolate,Oreo Crumbs,35,3.5,122.5,Online
+37,2/29/2024,Mini Martabak,Chocolate,Dates,28,3,84,In-Store
+38,2/29/2024,Mini Martabak,Chocolate,Peanuts,8,4,32,Online
+39,2/29/2024,Mini Martabak,Chocolate,Strawberry Jam,10,3.5,35,In-Store
+40,2/29/2024,Mini Martabak,Chocolate,Cheese,25,5,125,Online
+41,3/1/2024,Mini Martabak,Original,No Topping,18,2.5,45,Online
+42,3/1/2024,Mini Martabak,Original,Chocolate Sprinkle,25,3,75,In-Store
+43,3/1/2024,Mini Martabak,Original,Rainbow Sprinkle,12,3.5,42,Online
+44,3/1/2024,Mini Martabak,Original,Raisin,15,4,60,In-Store
+45,3/1/2024,Mini Martabak,Original,Banana,22,3.5,77,Online
+46,3/1/2024,Mini Martabak,Original,Oreo Crumbs,28,3,84,In-Store
+47,3/1/2024,Mini Martabak,Original,Dates,20,2.5,50,In-Store
+48,3/1/2024,Mini Martabak,Original,Peanuts,10,3.5,35,Online
+49,3/1/2024,Mini Martabak,Original,Strawberry Jam,18,3,54,In-Store
+50,3/1/2024,Mini Martabak,Original,Cheese,30,4,120,Online
+51,3/1/2024,Mini Martabak,Chocolate,No Topping,20,3,60,Online
+52,3/1/2024,Mini Martabak,Chocolate,Chocolate Sprinkle,28,3.5,98,In-Store
+53,3/1/2024,Mini Martabak,Chocolate,Rainbow Sprinkle,15,4,60,Online
+54,3/1/2024,Mini Martabak,Chocolate,Raisin,18,4.5,81,In-Store
+55,3/1/2024,Mini Martabak,Chocolate,Banana,25,4,100,In-Store
+56,3/1/2024,Mini Martabak,Chocolate,Oreo Crumbs,30,3.5,105,Online
+57,3/1/2024,Mini Martabak,Chocolate,Dates,22,3,66,In-Store
+58,3/1/2024,Mini Martabak,Chocolate,Peanuts,12,4,48,In-Store
+59,3/1/2024,Mini Martabak,Chocolate,Strawberry Jam,15,3.5,52.5,Online
+60,3/1/2024,Mini Martabak,Chocolate,Cheese,35,5,175,Online
+61,3/2/2024,Mini Martabak,Original,No Topping,22,2.5,55,In-Store
+62,3/2/2024,Mini Martabak,Original,Chocolate Sprinkle,30,3,90,In-Store
+63,3/2/2024,Mini Martabak,Original,Rainbow Sprinkle,15,3.5,52.5,Online
+64,3/2/2024,Mini Martabak,Original,Raisin,20,4,80,In-Store
+65,3/2/2024,Mini Martabak,Original,Banana,28,3.5,98,In-Store
+66,3/2/2024,Mini Martabak,Original,Oreo Crumbs,35,3,105,Online
+67,3/2/2024,Mini Martabak,Original,Dates,25,2.5,62.5,Online
+68,3/2/2024,Mini Martabak,Original,Peanuts,15,3.5,52.5,In-Store
+69,3/2/2024,Mini Martabak,Original,Strawberry Jam,20,3,60,In-Store
+70,3/2/2024,Mini Martabak,Original,Cheese,40,4,160,Online
+71,3/2/2024,Mini Martabak,Chocolate,No Topping,25,3,75,In-Store
+72,3/2/2024,Mini Martabak,Chocolate,Chocolate Sprinkle,35,3.5,122.5,In-Store
+73,3/2/2024,Mini Martabak,Chocolate,Rainbow Sprinkle,18,4,72,Online
+74,3/2/2024,Mini Martabak,Chocolate,Raisin,22,4.5,99,In-Store
+75,3/2/2024,Mini Martabak,Chocolate,Banana,30,4,120,In-Store
+76,3/2/2024,Mini Martabak,Chocolate,Oreo Crumbs,38,3.5,133,Online
+77,3/2/2024,Mini Martabak,Chocolate,Dates,30,3,90,In-Store
+78,3/2/2024,Mini Martabak,Chocolate,Peanuts,18,4,72,In-Store
+79,3/2/2024,Mini Martabak,Chocolate,Strawberry Jam,22,3.5,77,Online
+80,3/2/2024,Mini Martabak,Chocolate,Cheese,45,5,225,Online
+81,3/3/2024,Mini Martabak,Original,No Topping,18,2.5,45,In-Store
+82,3/3/2024,Mini Martabak,Original,Chocolate Sprinkle,25,3,75,Online
+83,3/3/2024,Mini Martabak,Original,Rainbow Sprinkle,12,3.5,42,In-Store
+84,3/3/2024,Mini Martabak,Original,Raisin,15,4,60,Online
+85,3/3/2024,Mini Martabak,Original,Banana,22,3.5,77,In-Store
+86,3/3/2024,Mini Martabak,Original,Oreo Crumbs,28,3,84,Online
+87,3/3/2024,Mini Martabak,Original,Dates,20,2.5,50,In-Store
+88,3/3/2024,Mini Martabak,Original,Peanuts,10,3.5,35,In-Store
+89,3/3/2024,Mini Martabak,Original,Strawberry Jam,18,3,54,Online
+90,3/3/2024,Mini Martabak,Original,Cheese,30,4,120,In-Store
+91,3/3/2024,Mini Martabak,Chocolate,No Topping,20,3,60,In-Store
+92,3/3/2024,Mini Martabak,Chocolate,Chocolate Sprinkle,28,3.5,98,Online
+93,3/3/2024,Mini Martabak,Chocolate,Rainbow Sprinkle,15,4,60,In-Store
+94,3/3/2024,Mini Martabak,Chocolate,Raisin,18,4.5,81,Online
+95,3/3/2024,Mini Martabak,Chocolate,Banana,25,4,100,In-Store
+96,3/3/2024,Mini Martabak,Chocolate,Oreo Crumbs,30,3.5,105,Online
+97,3/3/2024,Mini Martabak,Chocolate,Dates,22,3,66,In-Store
+98,3/3/2024,Mini Martabak,Chocolate,Peanuts,12,4,48,In-Store
+99,3/3/2024,Mini Martabak,Chocolate,Strawberry Jam,15,3.5,52.5,Online
+100,3/3/2024,Mini Martabak,Chocolate,Cheese,35,5,175,In-Store
+101,3/4/2024,Mini Martabak,Original,No Topping,20,2.5,50,Online
+102,3/4/2024,Mini Martabak,Original,Chocolate Sprinkle,30,3,90,In-Store
+103,3/4/2024,Mini Martabak,Original,Rainbow Sprinkle,15,3.5,52.5,Online
+104,3/4/2024,Mini Martabak,Original,Raisin,20,4,80,In-Store
+105,3/4/2024,Mini Martabak,Original,Banana,28,3.5,98,Online
+106,3/4/2024,Mini Martabak,Original,Oreo Crumbs,35,3,105,In-Store
+107,3/4/2024,Mini Martabak,Original,Dates,25,2.5,62.5,Online
+108,3/4/2024,Mini Martabak,Original,Peanuts,15,3.5,52.5,In-Store
+109,3/4/2024,Mini Martabak,Original,Strawberry Jam,20,3,60,Online
+110,3/4/2024,Mini Martabak,Original,Cheese,40,4,160,In-Store
+111,3/4/2024,Mini Martabak,Chocolate,No Topping,25,3,75,Online
+112,3/4/2024,Mini Martabak,Chocolate,Chocolate Sprinkle,35,3.5,122.5,In-Store
+113,3/4/2024,Mini Martabak,Chocolate,Rainbow Sprinkle,18,4,72,Online
+114,3/4/2024,Mini Martabak,Chocolate,Raisin,22,4.5,99,In-Store
+115,3/4/2024,Mini Martabak,Chocolate,Banana,30,4,120,Online
+116,3/4/2024,Mini Martabak,Chocolate,Oreo Crumbs,38,3.5,133,In-Store
+117,3/4/2024,Mini Martabak,Chocolate,Dates,30,3,90,Online
+118,3/4/2024,Mini Martabak,Chocolate,Peanuts,18,4,72,In-Store
+119,3/4/2024,Mini Martabak,Chocolate,Strawberry Jam,22,3.5,77,Online
+120,3/4/2024,Mini Martabak,Chocolate,Cheese,45,5,225,In-Store
+121,3/5/2024,Mini Martabak,Original,No Topping,18,2.5,45,Online
+122,3/5/2024,Mini Martabak,Original,Chocolate Sprinkle,25,3,75,In-Store
+123,3/5/2024,Mini Martabak,Original,Rainbow Sprinkle,12,3.5,42,Online
+124,3/5/2024,Mini Martabak,Original,Raisin,15,4,60,In-Store
+125,3/5/2024,Mini Martabak,Original,Banana,22,3.5,77,Online
+126,3/5/2024,Mini Martabak,Original,Oreo Crumbs,28,3,84,In-Store
+127,3/5/2024,Mini Martabak,Original,Dates,20,2.5,50,Online
+128,3/5/2024,Mini Martabak,Original,Peanuts,10,3.5,35,In-Store
+129,3/5/2024,Mini Martabak,Original,Strawberry Jam,18,3,54,Online
+130,3/5/2024,Mini Martabak,Original,Cheese,30,4,120,In-Store
+131,3/5/2024,Mini Martabak,Chocolate,No Topping,20,3,60,Online
+132,3/5/2024,Mini Martabak,Chocolate,Chocolate Sprinkle,28,3.5,98,In-Store
+133,3/5/2024,Mini Martabak,Chocolate,Rainbow Sprinkle,15,4,60,Online
+134,3/5/2024,Mini Martabak,Chocolate,Raisin,18,4.5,81,In-Store
+135,3/5/2024,Mini Martabak,Chocolate,Banana,25,4,100,Online
+136,3/5/2024,Mini Martabak,Chocolate,Oreo Crumbs,30,3.5,105,In-Store
+137,3/5/2024,Mini Martabak,Chocolate,Dates,22,3,66,Online
+138,3/5/2024,Mini Martabak,Chocolate,Peanuts,12,4,48,In-Store
+139,3/5/2024,Mini Martabak,Chocolate,Strawberry Jam,15,3.5,52.5,Online
+140,3/5/2024,Mini Martabak,Chocolate,Cheese,35,5,175,In-Store

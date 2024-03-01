@@ -1,0 +1,16 @@
+ Product ID , Product Category , Sales Revenue (USD) , Quantity Sold , Sales Date  , Store Location , Buying Method 
+1001, Smartphone       ,1500,10,1/5/2023, New York       , In-store      
+1002, Laptop           ,2000,5,1/8/2023, Los Angeles    , Online        
+1003, Tablet           ,800,15,1/12/2023, Chicago        , In-store      
+1004, Smartwatch       ,300,20,1/15/2023, San Francisco  , Online        
+1005, Headphones       ,100,50,1/20/2023, Miami          , In-store      
+1006, Smartphone       ,1600,8,1/25/2023, Seattle        , Online        
+1007, Laptop           ,2200,6,1/28/2023, Boston         , In-store      
+1008, Tablet           ,850,12,2/2/2023, Dallas         , Online        
+1009, Smartwatch       ,350,18,2/5/2023, Atlanta        , In-store      
+1010, Headphones       ,120,40,2/10/2023, Philadelphia   , Online        
+1011, Smartphone       ,1550,9,2/15/2023, Houston        , In-store      
+1012, Laptop           ,2100,4,2/18/2023, Phoenix        , Online        
+1013, Tablet           ,820,14,2/22/2023, Denver         , In-store      
+1014, Smartwatch       ,320,16,2/25/2023, Las Vegas      , Online        
+1015, Headphones       ,110,45,2/28/2023, Orlando        , In-store      

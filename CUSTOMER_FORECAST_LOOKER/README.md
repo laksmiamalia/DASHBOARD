@@ -2,7 +2,7 @@
 
 # Overview
 The Customer Loss and Gain Analysis Dashboard is a powerful tool designed to provide comprehensive insights into customer acquisition and retention trends within our organization. Leveraging Looker's advanced analytics capabilities and the dataset provided, this dashboard offers a centralized platform for tracking customer gain and loss over time, identifying patterns, and optimizing strategies to enhance customer engagement and retention.
-**Interactive Dashboard** : :link: [click here]([https://datastudio.google.com/s/g0s27hOuuH4](https://lookerstudio.google.com/reporting/5bcab9b6-ed39-4205-9450-d2bcc805779b))
+**Interactive Dashboard** : :link: [click here](https://lookerstudio.google.com/reporting/5bcab9b6-ed39-4205-9450-d2bcc805779b)
 
 # Key Metrics
 Customer Gain: Total number of new customers acquired during a specified period.

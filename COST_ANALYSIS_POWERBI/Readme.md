@@ -10,7 +10,7 @@ The Cost Analysis Dashboard provides comprehensive insights into expenditure pat
 **Trend Analysis:** Analyze trends in costs over time and track progress towards budget targets.
 
 ## Dashboard Screenshots
-![image](https://github.com/laksmiamalia/DASHBOARD/assets/113813929/3b8b9b53-158f-4624-ad3a-f068f812f122)
+![image](https://github.com/laksmiamalia/DASHBOARD/assets/113813929/5f7fc219-5fd7-4707-b5ad-72676260e1cc)
 
 ## Getting Started
 To explore the Cost Analysis Dashboard:
